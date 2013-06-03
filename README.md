@@ -176,8 +176,4 @@ http://www.gtfs-data-exchange.com/agency/thebus/latest.zip
 
 # LICENSE
 
-I'm using the [Eclipse Public License](http://opensource.org/licenses/EPL-1.0 "Eclipse Public License") for now. This is the same license used by Clojure. Please let me know if you have other preferences.  Or, send a pull request.
-
-See LICENSE.txt for license text (or the link above).
-
-Copyright (c) 2013 The People of Hawaii
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.
